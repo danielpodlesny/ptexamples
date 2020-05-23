@@ -1,7 +1,7 @@
 Package: rstudio_project_template
-Title: RStudio Project Template [Daniel Podlesny]
+Title: RStudio Project Template (Daniel Podlesny)
 Author: Daniel Podlesny
-Maintainer: Daniel Podlesny
+Maintainer: Daniel Podlesny (daniel.podlesny@gmail.com)
 Version: 0.0.1
 Description: Defined RStudio project template.
 Depends: R (>= 3.3.2)
