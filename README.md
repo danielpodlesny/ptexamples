@@ -2,4 +2,4 @@
 
 Install this package with:
 
-    devtools::install_github("dp_project")
+    devtools::install_github("danielpodlesny/rstudio_project_template")
