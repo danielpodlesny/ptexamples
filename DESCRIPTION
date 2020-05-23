@@ -1,9 +1,12 @@
 Package: projecttemplate
-Title: RStudio Project Template (Daniel Podlesny)
 Version: 1.0
-Authors@R: person("Daniel", "Podlesny", email = "daniel.podlesny@gmail.com",
-                  role = c("aut", "cre"))
+Date: 2020-05-23
+Title: RStudio Project Template (Daniel Podlesny)
+Authors@R: c(person("Daniel", "Podlesny", role = c("aut", "cre"),
+                     email = "daniel.podlesny@gmail.com"))
+Author: Daniel Podlesny [aut, cre],
+Maintainer: Daniel Podlesny <daniel.podlesny@gmail.com>
+Depends: R (>= 3.1.0)
 Description: Defined RStudio project template.
-Depends: R (>= 3.3.0)
 License: GPL (>= 2)
 LazyData: true
