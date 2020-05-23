@@ -1,9 +1,9 @@
-Package: ptexamples
-Title: Example RStudio Project Templates
-Author: Kevin Ushey
-Maintainer: Kevin Ushey <kevin@rstudio.com>
+Package: rstudio_project_template
+Title: RStudio Project Template [Daniel Podlesny]
+Author: Daniel Podlesny
+Maintainer: Daniel Podlesny
 Version: 0.0.1
-Description: Example package showcasing how RStudio project templates are defined.
+Description: Defined RStudio project template.
 Depends: R (>= 3.3.2)
 License: GPL (>= 2)
 Encoding: UTF-8
